@@ -8,3 +8,4 @@ App for parse PDF to MP3
 3. input file_path PDF ex.: /pdf_files/{filename}.pdf
 4. input language ex.: "ru" or "en"
 5. open ./filename.mp3
+6. 6 
